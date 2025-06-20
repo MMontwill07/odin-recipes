@@ -1,0 +1,1 @@
+-Plan is to build a primitive and basic recipes web page showing off basic html skills like images,links and text.
